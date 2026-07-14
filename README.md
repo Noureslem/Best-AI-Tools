@@ -1,6 +1,3 @@
-# Best-AI-Tools
-
-
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=0:064e3b,50:065f46,100:0d9488&height=170&section=header&text=Awesome%20AI%20Tools&fontSize=40&fontColor=6EE7B7&animation=twinkling&fontAlignY=45)
 
 <div align="center">
